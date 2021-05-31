@@ -1,0 +1,2 @@
+1. Deje la db creada con mis usuarios, si queres elimina y proba de 0
+2. El while con el menu de opciones funciona bien si seguis la secuencia de numeros, es decir empezar con 1 y terminas con el 0. Ya que, por ejemplo, en la opción del podio se ordenan los registros y eso te sirve para que la opción del ultimo te de el ultimo de la lista ordenada en la opción anterior.
